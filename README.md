@@ -9,7 +9,7 @@ Nowadays, many restaurants manage their business by manual especially take custo
 * Tech 1 - Angular/CSS
 * Tech 2 - Spring Boot, Spring JPA
 * Tech 3 - MySQL
-* Platforms - Eclipse IDE , MySQL Workbench , VisualStudio
+
 
 ## Features
 
